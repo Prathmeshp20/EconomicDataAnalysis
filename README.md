@@ -2,8 +2,11 @@
 This project involves analyzing a dataset to extract insights from Unemployment and Participation Data of US states
 
 -Using the Fred API, Pulled Up to date data.
+
 -Compared, Analyzed and Explored the data.
+
 -Pulled down the data for different economic indicators, cleaned and joined the data.
+
 ## S&P 500
 ![S P 500](https://github.com/Prathmeshp20/EconomicDataAnalysis/assets/77873093/bf98913a-4394-4668-9bc7-e03c57d171ef)
 
